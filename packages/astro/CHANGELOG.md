@@ -1,5 +1,17 @@
 # astro
 
+## 1.0.0-beta.18
+
+### Patch Changes
+
+- [#3191](https://github.com/withastro/astro/pull/3191) [`205d1f07`](https://github.com/withastro/astro/commit/205d1f07f13ae60f21954648d530895d479e42cf) Thanks [@JuanM04](https://github.com/JuanM04)! - Added better types to importing Markdown
+
+* [#3187](https://github.com/withastro/astro/pull/3187) [`75dab3ca`](https://github.com/withastro/astro/commit/75dab3ca3de33da825c2a9695c2ad46cc104b7b1) Thanks [@bholmesdev](https://github.com/bholmesdev)! - Fix: remove online editor configs (stackblitz and code sandbox) from create-astro output
+
+- [#3170](https://github.com/withastro/astro/pull/3170) [`19667c45`](https://github.com/withastro/astro/commit/19667c45f318ec13cdc2b51016f3fa3487b2a32d) Thanks [@matthewp](https://github.com/matthewp)! - Netlify Edge: Forward requests for static assets
+
+* [#3186](https://github.com/withastro/astro/pull/3186) [`2b702d6a`](https://github.com/withastro/astro/commit/2b702d6abaa296c0eb77d3fd1a8231a186341b1f) Thanks [@bholmesdev](https://github.com/bholmesdev)! - Fix: astro add generating "astro.config.mjs" outside project root
+
 ## 1.0.0-beta.17
 
 ### Patch Changes
