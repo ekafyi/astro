@@ -8,8 +8,10 @@
     "build": "astro build",
     "preview": "astro preview"
   },
+  "dependencies": {
+    "@example/my-component": "workspace:*"
+  }
   "devDependencies": {
-    "@example/my-component": "workspace:*",
     "astro": "^1.0.0-beta.17"
   }
 }
